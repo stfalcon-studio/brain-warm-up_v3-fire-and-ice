@@ -1,6 +1,5 @@
 <?php
 namespace lensky84;
-//include_once '../../vendor/autoload.php';
 
 /**
  * Class Solomon

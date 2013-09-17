@@ -1,6 +1,5 @@
 <?php
 namespace lensky84\test;
-include_once '../../../vendor/autoload.php';
 
 use lensky84\Solomon;
 
