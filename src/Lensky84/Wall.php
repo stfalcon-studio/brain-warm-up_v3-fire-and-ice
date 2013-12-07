@@ -1,5 +1,5 @@
 <?php
-namespace lensky84;
+namespace Lensky84;
 
 /**
  * Class Wall

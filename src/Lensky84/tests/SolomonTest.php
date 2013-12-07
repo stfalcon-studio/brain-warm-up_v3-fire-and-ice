@@ -1,7 +1,7 @@
 <?php
-namespace lensky84\test;
+namespace Lensky84\test;
 
-use lensky84\Solomon;
+use Lensky84\Solomon;
 
 /**
  * Class Solomon
