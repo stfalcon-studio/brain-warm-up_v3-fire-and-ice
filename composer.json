@@ -20,6 +20,7 @@
     "require": {
         "squizlabs/php_codesniffer": "dev-phpcs-fixer",
         "phpunit/phpunit": "3.7.*",
-        "sebastian/phpcpd": "*"
+        "sebastian/phpcpd": "*",
+        "phpspec/phpspec": "2.0.*@dev"
     }
 }

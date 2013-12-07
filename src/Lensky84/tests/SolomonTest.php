@@ -1,6 +1,7 @@
 <?php
+namespace Lensky84\test;
 
-namespace YourGitHubLogin;
+use Lensky84\Solomon;
 
 /**
  * Class Solomon
