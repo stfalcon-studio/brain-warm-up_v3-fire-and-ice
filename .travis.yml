@@ -5,9 +5,9 @@ before_script:
   - curl -s https://getcomposer.org/installer | php -- --quiet
   - php composer.phar install
 script:
-  - vendor/bin/phpunit
-  - vendor/bin/phpcs --report="full" --standard="PSR2" src/
-  - vendor/bin/phpcpd --verbose src/
+  - bin/phpunit
+  - bin/phpcs --report="full" --standard="PSR2" src/
+  - bin/phpcpd --verbose src/
 notifications:
   email:
       - mail@ftrrtf.com
